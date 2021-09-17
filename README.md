@@ -1,13 +1,13 @@
 # Portal Plug-in System for Unreal Engine 4
-<p align="center">
-![5ncdra]img width="460" height="300" (https://user-images.githubusercontent.com/12305857/133839620-ac2e4f04-0baf-4ba5-b9da-fe90dc4c7299.gif)
-</p>
-<p align="center">
+
+![5ncdra](https://user-images.githubusercontent.com/12305857/133839620-ac2e4f04-0baf-4ba5-b9da-fe90dc4c7299.gif)
+
+
 ![5ncdjb](https://user-images.githubusercontent.com/12305857/133839641-c873fafd-35f8-4efb-8ce5-4d97056591cb.gif)
-</p>
-<p align="center">
+
+
 ![5ncddd](https://user-images.githubusercontent.com/12305857/133839689-00b26f92-be10-488a-bbc0-b1e034974f57.gif)
-</p>
+
 
 - Fully integrated in any project
 - Fully costumizable
@@ -32,15 +32,15 @@
 - Clone the repository inside your project's Plugins folder, or download the latest release and extract it into your project's Plugins folder.
 - Regenerate visual studio project files and build your project.
 - Launch the project, and enable plugin content viewer as seen below. This will show contents of the plugin in your content browser:
-<p align="center">
+
 ![Install](https://user-images.githubusercontent.com/12305857/133839730-273af1bc-e231-4c6d-82e5-0ecadedfb09d.png)
-</p>
+
 ## How to use
 ### Add to character / Player
 - Open your character blueprint and click in "AddComponent", find "BP_PortalGunComponent";
-<p align="center">
+
 ![HowTos01](https://user-images.githubusercontent.com/12305857/133840306-427c3e4a-0a83-40ba-8a7b-7aeaf7343659.png)
-</p>
+
 - Modify the Basic Properties as you like;
 - Set Muzzle name in "MuzzleName"variable, located in Basic Properties
 - In "BeginPlay" event add the weapon mesh in "WeaponMesh"Variable
@@ -51,22 +51,22 @@
 
 ### Add level portal
 - Go to portal plugin content directory: /PortalGun/Content/Blueprint/Portal/PortalActor
-<p align="center">
+
 ![CreatingLevelPortal01](https://user-images.githubusercontent.com/12305857/133839873-1b5a7298-8461-4027-8668-b77a0e895944.png)
-</p>
-<p align="center">
+
+
 ![CreatingLevelPortal02](https://user-images.githubusercontent.com/12305857/133840031-6b2c56c2-29f7-4e16-a90c-69120b3898ea.png)
-</p>
+
 - Next phase is Add the PortalBP on Level
 - Create, in any directory, the Scene capture texture for each portal
-<p align="center">
+
 ![CreatingSceneCapture](https://user-images.githubusercontent.com/12305857/133839923-7bcdce3e-99cd-4987-a052-1833128a782c.png)
-</p>
+
 - Add the created Scene capture on "SetSceneCapture" in portal Basic Configuration
 - Add other portal on level and add the first created portal on "PortalDestination" of present portal Basic Configuration
-<p align="center">
+
 ![CreatingLevelPortal03](https://user-images.githubusercontent.com/12305857/133839972-8c7f8d9f-2be4-4400-9fed-e8e83860e038.png)
-  </p>
+
 - Customize the apearance in Basic Configuration as you like;
 
 ### Properties Manual
