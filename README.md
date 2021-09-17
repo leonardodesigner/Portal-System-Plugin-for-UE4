@@ -1,6 +1,6 @@
 # Portal Plug-in System for Unreal Engine 4
 <p align="center">
-![5ncdra](https://user-images.githubusercontent.com/12305857/133839620-ac2e4f04-0baf-4ba5-b9da-fe90dc4c7299.gif)
+![5ncdra]img width="460" height="300" (https://user-images.githubusercontent.com/12305857/133839620-ac2e4f04-0baf-4ba5-b9da-fe90dc4c7299.gif)
 </p>
 <p align="center">
 ![5ncdjb](https://user-images.githubusercontent.com/12305857/133839641-c873fafd-35f8-4efb-8ce5-4d97056591cb.gif)
