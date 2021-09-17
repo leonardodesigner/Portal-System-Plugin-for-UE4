@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PortalGun.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProjects\TreinosCPP\PluginProject\Intermediate\Build\Win64\PluginProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\Module.PortalGun.cpp.obj"
+"F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\Module.PortalGun.gen.cpp.obj"
+"F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\Default.rc2.res"
+/OUT:"F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\UE4Editor-PortalGun.lib"

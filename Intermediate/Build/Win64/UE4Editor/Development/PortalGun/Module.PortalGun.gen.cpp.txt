@@ -1,0 +1,13 @@
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\Definitions.PortalGun.h
+F:/UnrealProjects/TreinosCPP/PluginProject/Plugins/PortalGun/Intermediate/Build/Win64/UE4Editor/Inc/PortalGun/PortalActor.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Source\PortalGun/Public/PortalActor.h
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Inc\PortalGun\PortalActor.generated.h
+F:/UnrealProjects/TreinosCPP/PluginProject/Plugins/PortalGun/Intermediate/Build/Win64/UE4Editor/Inc/PortalGun/PortalGun.init.gen.cpp
+F:/UnrealProjects/TreinosCPP/PluginProject/Plugins/PortalGun/Intermediate/Build/Win64/UE4Editor/Inc/PortalGun/PortalGunComponent.gen.cpp
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Source\PortalGun/Public/PortalGunComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Inc\PortalGun\PortalGunComponent.generated.h

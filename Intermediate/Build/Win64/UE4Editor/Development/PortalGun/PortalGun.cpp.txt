@@ -1,0 +1,2 @@
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Intermediate\Build\Win64\UE4Editor\Development\PortalGun\Definitions.PortalGun.h
+F:\UnrealProjects\TreinosCPP\PluginProject\Plugins\PortalGun\Source\PortalGun\Public\PortalGun.h

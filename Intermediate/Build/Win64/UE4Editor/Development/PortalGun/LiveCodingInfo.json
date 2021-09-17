@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PortalGun.cpp.obj": [
+			"PortalActor.cpp.obj",
+			"PortalGun.cpp.obj",
+			"PortalGunComponent.cpp.obj"
+		],
+		"Module.PortalGun.gen.cpp.obj": [
+			"PortalActor.gen.cpp.obj",
+			"PortalGun.init.gen.cpp.obj",
+			"PortalGunComponent.gen.cpp.obj"
+		]
+	}
+}
